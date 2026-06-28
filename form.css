@@ -1,0 +1,26 @@
+table {
+    border:2px solid black;
+}
+table {
+    border:20x solid blue;
+    border-collapse:collapse;
+
+    
+}
+ th,td {
+    border: 1px solid black;
+    
+
+}
+th {
+    background-color: blue;
+    color: aliceblue;
+}
+body{
+   margin: 0;
+    display: grid;
+    place-items: center; 
+    min-height: 100vh;
+    justify-content: center; 
+            align-items: center;  
+}
